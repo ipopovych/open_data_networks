@@ -1,0 +1,6 @@
+# Ignore the files with the data
+*.csv
+*.json
+
+# Ignore archives
+*.bz2
